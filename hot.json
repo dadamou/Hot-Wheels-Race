@@ -76,29 +76,68 @@
     "items": [
       {
         "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
-        "title": "Welcome",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "title": "Welcome : Hot Wheels Unleashed",
+        "guide": "Despite some of the cars in Hot Wheels Unleashed appearing larger and bulkier than others, their weight isn't a contributing factor. Instead, the size difference is reflected in their stats, so there is no need to worry about the bulkier-looking cars having a weighted benefit or hindrance on the jumps throughout each track. Winning more races will depend on the player's control of each car, which is impacted by the stats. Legendary cars like the Batmobile have the best stats.",
+        "guide 2": "Thank you for downloading our guide that will help you to know everything about your favorite application.",
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "20",
-        "button URL": "com.kiloo.subwaysurf"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
-        "title": ".",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "title": "worry about in Hot Wheels Unleashed",
+        "guide": "<p>By far the two most important stats to worry about in Hot Wheels Unleashed are Acceleration and Handling. Acceleration determines how quickly a car reaches its top speed, while Handling affects how well a car can take turns. A quick tap of the &quot;brake button&quot; is all that&apos;s needed to begin drifting around sharp turns, so the Braking Power stat doesn&apos;t need to be higher than three bars to be excellent. Lack of Speed can be compensated by the amount of boost a car has, so if a car has low speed make sure it has a high boost and vice versa.</p>",
+        "guide 2": "Thank you for downloading our guide that will help you to know everything about your favorite application.PLEASE! Get a moment to give us a review on the store about your favorite app.",
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
+      },
+       {
+        "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
+        "title": "These are the tips, tricks, and strategies that should be used in every race in Hot Wheels Unleashed:",
+        "guide": "Despite some of the cars in Hot Wheels Unleashed appearing larger and bulkier than others, their weight isn't a contributing factor. Instead, the size difference is reflected in their stats, so there is no need to worry about the bulkier-looking cars having a weighted benefit or hindrance on the jumps throughout each track. Winning more races will depend on the player's control of each car, which is impacted by the stats. Legendary cars like the Batmobile have the best stats.",
+        "guide 2": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
+        "VIP": "false",
+        "ID": "3",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
+        "title": "These are the tips, tricks, and strategies that should be used in every race in Hot Wheels Unleashed:",
+        "guide": "<p>Starting Boost - Press and hold the drive forward button as the race starting count down reaches &quot;2&quot; to immediately gain full boost.</p><p>Boost Immediately - After gaining the full boost from the start, use as much as needed to get out ahead of the other cars before the first turn.</p><p>Drift Turns - Nearly every turn in Hot Wheels Unleashed requires drifting to get around.</p><p>Drift Early - Use the brake button to begin drifting as soon as the blue seal or change in track begins for the turn. Green arrows will indicate a sharp turn, and the blue seals on the track or change in track color are good starting points to begin drifting.</p>",
+        "guide 2": "More...",
+        "VIP": "false",
+        "ID": "4",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
+        "title": "These are the tips, tricks, and strategies that should be used in every race in Hot Wheels Unleashed:",
+        "guide": "<p>Boost Control - Use boost often, but tactfully. The best time to use a boost is after coming around a drift turn into a straightaway.</p><p>Jumps - Take all jumps as straight on as possible, and use a boost to correct the flight path if need be.</p><p>Boost Regen - There are boost pads that increase the speed of boost recovery, but drifting will recover boost faster than anything.</p><p>Upgrade Cars - Use Gears to upgrade cars. Upgrade previews show the changes that will be made when a car upgrades.</p>",
+        "guide 2": "More ...",
+        "VIP": "false",
+        "ID": "5",
+		
+        "show button": "true",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
       }
     ]
   }
