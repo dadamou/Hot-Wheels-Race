@@ -83,7 +83,7 @@
         "ID": "1",
 		
         "show button": "true",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
       },
@@ -96,7 +96,7 @@
         "ID": "2",
 		
         "show button": "true",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
       },
@@ -109,7 +109,7 @@
         "ID": "3",
 		
         "show button": "true",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
       },
@@ -122,7 +122,7 @@
         "ID": "4",
 		
         "show button": "true",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
       },
@@ -135,7 +135,7 @@
         "ID": "5",
 		
         "show button": "true",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "17",
         "button URL": "https://smrturl.co/a041404"
       }
